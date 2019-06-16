@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVCPattern</string>
+    <string name="mvc_pattern_demo">MVC Pattern Demo!</string>
+</resources>
